@@ -50,7 +50,7 @@ public class Program {
             }
         }
         UI.clearScreen();
-        UI.printMatch(chessMatch, captured g);
+        UI.printMatch(chessMatch, captured);
 
     }
 }
